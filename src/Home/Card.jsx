@@ -14,6 +14,7 @@ function Card() {
                                     <img
                                         src="https://mdbcdn.b-cdn.net/img/new/standard/nature/111.webp"
                                         className="img-fluid"
+                                        alt="image1"
                                     />
                                     <a href="#!">
                                         <div
@@ -51,6 +52,7 @@ function Card() {
                                     <img
                                         src="https://mdbcdn.b-cdn.net/img/new/standard/nature/111.webp"
                                         className="img-fluid"
+                                        alt="image2"
                                     />
                                     <a href="#!">
                                         <div
@@ -88,6 +90,7 @@ function Card() {
                                     <img
                                         src="https://mdbcdn.b-cdn.net/img/new/standard/nature/111.webp"
                                         className="img-fluid"
+                                        alt="image3"
                                     />
                                     <a href="#!">
                                         <div

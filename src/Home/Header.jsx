@@ -26,8 +26,8 @@ function Header() {
                                     className="btn btn-outline-light btn-lg m-2"
                                     href="https://www.youtube.com/watch?v=c9B4TPnak1A"
                                     role="button"
-                                    rel="nofollow"
-                                    target="_blank">
+                                    target="_blank"
+                                    rel="nofollow">
                                     Start tutorial
                                 </a>
                                 <a
@@ -35,6 +35,7 @@ function Header() {
                                     className="btn btn-outline-light btn-lg m-2"
                                     href="https://mdbootstrap.com/docs/standard/"
                                     target="_blank"
+                                    rel="noreferrer"
                                     role="button">
                                     Download MDB UI KIT
                                 </a>
