@@ -27,7 +27,7 @@ function Header() {
                                     href="https://www.youtube.com/watch?v=c9B4TPnak1A"
                                     role="button"
                                     target="_blank"
-                                    rel="nofollow">
+                                    rel="noreferrer">
                                     Start tutorial
                                 </a>
                                 <a
